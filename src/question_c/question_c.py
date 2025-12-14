@@ -8,4 +8,6 @@ def get_most_likely_ancestor_consensus(dna_string1, dna_string2):
             positions.append(i +1)
     return tuple(positions)
 
+
+
     
